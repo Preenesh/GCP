@@ -1,6 +1,4 @@
-# Google Cloud Platform
-
-<img src="images/gcplogo.png" width="100">
+# Google Cloud Platform <img src="images/gcplogo.png" width="100">
 
 Scripts here can be used to automate or help automate various task on Google Cloud Platform.
 
