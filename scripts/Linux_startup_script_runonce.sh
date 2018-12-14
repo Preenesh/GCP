@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Startup-Script Re-run Controlled based on Custom Metadata value - [run-startup-script (yes/no)]
+
 # Function to get Metadata Response
 get_metadata_response(){
 	metadata_baseurl='http://metadata.google.internal/computeMetadata/v1/'
