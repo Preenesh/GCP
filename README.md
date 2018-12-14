@@ -8,6 +8,6 @@ The target audience is someone having experience in supporting Google Cloud Plat
 
 ## Scripts
 
-* [Linux Startup-Script Re-run Controlled based on Custom Metadata value - [run-startup-script (yes/no)]](scripts/Linux_startup_script_runonce.sh)
+* [Linux Startup-Script Re-run Controlled based on Custom Metadata Value - [run-startup-script (yes/no)]](scripts/Linux_startup_script_runonce.sh)
 
 > Note All Trademarks and Copyrights belong to their owners and are used for identification only.
